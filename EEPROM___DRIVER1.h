@@ -1,11 +1,3 @@
-/*
- * EEPROM___DRIVER1.h
- *
- * Created: 10/16/2023 4:41:14 PM
- *  Author: DELL
- */ 
-
-
 #ifndef EEPROM_DRIVER_H_
 #define EEPROM_DRIVER_H_
 
