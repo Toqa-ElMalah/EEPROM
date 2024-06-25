@@ -1,11 +1,3 @@
-/*
- * EEPROM___DRIVER1.c
- *
- * Created: 10/16/2023 4:38:55 PM
- *  Author: DELL
- */ 
-
-
 #include <avr/io.h>
 #include "std_macrous.h"
 
